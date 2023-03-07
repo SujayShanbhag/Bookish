@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bookish</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">favourites</string>
+    <string name="profile">profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="action_sort">Sort</string>
+    <string name="app_desc">
+             Bookish is a comprehensive mobile application designed for book enthusiasts to find and explore their favorite books.
+        This app is specially crafted to cater to the needs of students, professionals, and avid readers who love to explore and learn.
+
+        The app offers a user-friendly interface that makes it easy for users to navigate through the various features.
+        The app is designed to provide a seamless experience to users and enables them to find their favorite books quickly.
+
+        The app has an extensive collection of books that are handpicked by experts and curated to suit the diverse interests of the users.
+        Whether you are looking for fiction, non-fiction, biographies, or autobiographies, you can find it all on Bookish.
+
+    </string>
+</resources>
