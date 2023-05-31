@@ -66,7 +66,7 @@ class DashboardFragment : Fragment() {
         layoutManager= LinearLayoutManager(activity)
 
         val queue =Volley.newRequestQueue(activity as Context)
-        val url="http://13.235.250.119/v1/book/fetch_books/"
+        val url="https://dull-puce-vulture-suit.cyclic.app/fetch_books/"
 
         progressLayout.visibility=View.VISIBLE
         if(ConnectionManager().checkConnectivity(activity as Context)) {

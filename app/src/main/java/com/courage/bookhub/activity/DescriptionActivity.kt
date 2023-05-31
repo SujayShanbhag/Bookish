@@ -70,7 +70,7 @@ class DescriptionActivity : AppCompatActivity() {
             finish()
         }
         val queue=Volley.newRequestQueue(this)
-        val url="http://13.235.250.119/v1/book/get_book/"
+        val url="https://dull-puce-vulture-suit.cyclic.app/get_book/"
         val jsonParams=JSONObject()
         jsonParams.put("book_id",bookId)
 
